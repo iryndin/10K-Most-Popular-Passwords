@@ -6,4 +6,4 @@ So, it is of great respect for any site/webservice to check passwords for presen
 
 So, be aware! Please use this list of 10K most popular passwords while user sign up and don't allow users to use these compromised passwords!
 
-The list of passwords is taken from Discourse Libo: http://github.com/discourse
+The list of passwords is taken from Discourse Repo: http://github.com/discourse
